@@ -6,7 +6,7 @@ The Smart Ticketing System is a support ticket management application that autom
 
 For a step-by-step guide on how to interact with the UI, refer to the Canva document:
 
-📘 [UI Interaction Guide](https://drive.google.com/file/d/18W0uU9yBF4cY9o2_lmSobXdAvdPg_EMY/view?usp=sharing)
+📘 [UI Interaction Guide](https://drive.google.com/file/d/1GKlxffKvCZr2yJK3uWqS--lvHE5waCdV/view?usp=sharing)
 
 ## REST API Documentation
 
