@@ -21,7 +21,7 @@ smart_ticketing_system/ │ ├── android/ # Android build files ├── a
 
 ## Database Schema
 
-The system uses a NoSQL database (MongoDB) for flexible data management.
+The system uses a NoSQL database (Firebase) for flexible data management.
 
 1. User
    - `email`: User's email address
